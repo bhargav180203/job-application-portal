@@ -2,7 +2,7 @@
 
 A RESTful API built with **Node.js, Express.js and MongoDB** that lets candidates register, log in, upload a resume, apply for jobs and track their applications.
 
-**Live API:** `https://YOUR-APP-NAME.onrender.com` <!-- replace after deploying -->
+**Live API:** `https://job-application-portal-baza.onrender.com/`
 **Postman collection:** [`postman_collection.json`](./postman_collection.json)
 
 > The live API runs on Render's free tier, so the first request after a period of inactivity can take 30-60 seconds while the server wakes up.
